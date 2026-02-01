@@ -1,0 +1,8 @@
+streamlit
+torch
+networkx
+plotly
+pandas
+numpy
+scipy
+torch-geometric
